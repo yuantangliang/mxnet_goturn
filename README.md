@@ -5,6 +5,7 @@ Most of code are stealed from [PYTHON-GOTURN](https://github.com/nrupatunga/PY-G
 The parameter are stealed from [mxnet_goturn](https://github.com/arlose/mxnet_goturn).
 
 **TO DO LSIT**
-  1. add test and evalution code 
-  2. add pretrain model
-  3. add train code 
+ - [X] write symbol
+ - add test and evalution code 
+ - add pretrain model
+ - add train code 
